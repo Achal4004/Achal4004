@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[LMS](https://github.com/Achal4004/LMS_System)**
 
-- 🌱 I’m currently learning ** WebRTC Implementation ,Java Backend and Mern Stack Development.**
+- 🌱 I’m currently learning **WebRTC Implementation ,Java Backend and Mern Stack Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
