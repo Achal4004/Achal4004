@@ -20,6 +20,9 @@
 - LinkedIn : **https://www.linkedin.com/in/achal-paliwal-09102516b/**
 - Github    : **https://github.com/Achal4004**
 - HackerRank :**https://www.hackerrank.com/_181500032**
+- Movie mania Website :**https://achal4004.github.io/Movie-Mania-Full-Stack-Project/**
+- FullStack Practicals :**https://achal4004.github.io/Fullstack_practicals/**
+
 
 
 ## 🚀 Languages :
