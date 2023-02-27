@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="./Achal%20Paliwal.png" height="175px"/></a>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Achal</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Achal this side !</h1>
 <h3 align="center">I'm a passionate  🔭 Full Stack Developer.</h3>
 
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[LMS](https://github.com/Achal4004/LMS_System)**
 
-- 🌱 I’m currently learning **WebRTC Implementation ,Java Backend and Mern Stack Development.**
+- 🌱 I’m currently learning **Angular and some Machine Learning Stuff.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
