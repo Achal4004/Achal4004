@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently working on **[LMS](https://github.com/Achal4004/LMS_System)**
-
 - 🌱 I’m currently learning **Angular and some Machine Learning Stuff.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
