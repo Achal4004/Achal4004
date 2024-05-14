@@ -1,15 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="./Achal%20Paliwal.png" height="175px"/></a>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Achal this side !</h1>
-<h3 align="center">I'm a passionate  🔭 Full Stack Developer.</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Achal this side !</h1>
+<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+<h3 align="center">SDE-1 @MyAnatomy Integration PVT LTD.</h3>
 
 
 
 ## 🙋‍♂️ About Me 
 
-- 🌱 I’m currently learning **Angular and some Machine Learning Stuff.**
+- 🌱 I’m currently learning **Angular and Spring and SpringBoot**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects** and some good opportunities as a SDE.
 
 
 
