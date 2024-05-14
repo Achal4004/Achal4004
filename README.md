@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🌱 I’m currently learning **Angular and Spring and SpringBoot**
+- 🌱 I’m currently learning **Angular , Spring and SpringBoot**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** and some good opportunities as a SDE.
 
