@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="./Achal%20Paliwal.png" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Achal this side !</h1>
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+<h3 align="center">I'm a Full Stack Developer.</h3>
 <h3 align="center">SDE-1 @MyAnatomy Integration PVT LTD.</h3>
 
 
@@ -13,25 +13,17 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects** and some good opportunities as a SDE.
 
 
-
-- 📫 Connect me over **achalpaliwal6@gmail.com**
+- 📫 Connect me over **achalpaliwal4004@gmail.com**
 ## 🔗 Social Handel 
 - LinkedIn : **https://www.linkedin.com/in/achal-paliwal-09102516b/**
 - Github    : **https://github.com/Achal4004**
-- HackerRank :**https://www.hackerrank.com/_181500032**
-- Movie mania Website :**https://achal4004.github.io/Movie-Mania-Full-Stack-Project/**
-- FullStack Practicals :**https://achal4004.github.io/Fullstack_practicals/**
-
 
 
 ## 🚀 Languages :
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-     
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>     
 </p>
 
 ##  🚀 Tools :
@@ -47,10 +39,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
