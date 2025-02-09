@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Achal this side !</h1>
 <h3 align="center">I'm a Full Stack Developer.</h3>
-<h3 align="center">SDE-1 @MyAnatomy Integration PVT LTD.</h3>
+<h3 align="center">SDE-2 @MyAnatomy Integration PVT LTD.</h3>
 
 
 
