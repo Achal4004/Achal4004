@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="./Achal%20Paliwal.png"/></a>
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Achal this side!</h1>
 <h3 align="center">🚀 Full Stack Developer | SDE-2 @ MyAnatomy Integration Pvt. Ltd.</h3>
 
@@ -61,8 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Achal4004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achal4004&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
-
-> 📌 *Top languages only reflect public repositories*
 
 ---
 
